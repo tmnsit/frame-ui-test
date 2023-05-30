@@ -1,0 +1,9 @@
+{
+    "name": "vladimirmalkov/ui-frame",
+    "autoload": {
+        "psr-4": {
+            "UiFrame\\": "src/"
+        }
+    },
+    "require": {}
+}
